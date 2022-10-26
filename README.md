@@ -1,6 +1,6 @@
 # HP-ENVY-13-AH1004TX-Hackintosh
   
-For the people who need it .Thus, here is an introduction on zhihu.(need to be finished
+For the people who need it .Thus, here is an introduction on [zhihu](https://zhuanlan.zhihu.com/p/576461671).(article finished =.=)
 
 # Specifications
 Processor: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz 
